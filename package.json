@@ -1,0 +1,25 @@
+{
+  "name": "magazyn",
+  "version": "1.0.0",
+  "description": "Projekt aplikacj magazynowej dla sklepu",
+  "main": "conn.js",
+  "dependencies": {
+    "sqlite3": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czar3k/magazyn.git"
+  },
+  "author": "CJA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czar3k/magazyn/issues"
+  },
+  "homepage": "https://github.com/czar3k/magazyn#readme"
+}
